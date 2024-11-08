@@ -25,7 +25,5 @@ Data visualization libraries (e.g., Matplotlib, Seaborn)
 Basic machine learning knowledge  
 ## Project Structure
 data/: Contains ATM transaction data used in the project.  
-scripts/: Includes Python scripts for querying data, cleaning, and initial analysis.  
-notebooks/: Jupyter notebooks for data exploration and visualization.  
-results/: Final analysis results, including graphs and tables.   
+
 README.md: Project description, methodology, and instructions for replicating the study.  
